@@ -3,11 +3,9 @@
 ### Day 0: May 1, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started 100 days of code and deliberate practice.
+**Today's Progress**: Started 100 days of code and deliberate practice, practicing javaScript on free code camp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** javaScript seems simple thus far. A lot less strict on datatypes then C++. 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
