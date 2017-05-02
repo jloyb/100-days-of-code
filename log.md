@@ -3,9 +3,10 @@
 ### Day 0: May 1, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started 100 days of code and deliberate practice, practicing javaScript on free code camp.
+**Today's Progress**: Started 100 days of code and deliberate practice, practicing javaScript, html, and CSS on free code camp.
+In HTML and CSS, I learned some basic elements and properties, including how to take input in different ways. Additionally, I learned about classes and ids. 
 
-**Thoughts:** javaScript seems simple thus far. A lot less strict on datatypes then C++. 
+**Thoughts:** javaScript seems simple thus far. A lot less strict on datatypes then C++. HTML is even simpler, though syntactically it's really different. And primarily only seems useful for visual design and layouts, with little logic that can be implemented natively. I'm interested to see how to incorporate javaScript or jQuery w/ HTML to make things more interesting.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
