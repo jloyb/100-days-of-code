@@ -8,22 +8,10 @@ In HTML and CSS, I learned some basic elements and properties, including how to 
 
 **Thoughts:** javaScript seems simple thus far. A lot less strict on datatypes then C++. HTML is even simpler, though syntactically it's really different. And primarily only seems useful for visual design and layouts, with little logic that can be implemented natively. I'm interested to see how to incorporate javaScript or jQuery w/ HTML to make things more interesting.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: May 2, 2017
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I continued, and finished Freecodecamp's course on HTML5 and CSS, and progressed through learning Bootstrap.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts** The myriad ways you can inherit and override element properties in CSS seems powerful. Bootstrap has a simple, elegant, concept and I look forward to getting comfortable with its specifics, as so far it feels like I've only scratched the very surface of its capabilities.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
