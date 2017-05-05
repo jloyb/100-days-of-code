@@ -20,3 +20,9 @@ In HTML and CSS, I learned some basic elements and properties, including how to 
 **Today's Progress**: Shifting gears, I returned to the javaScript courses, finishing the basics of it and specifically its approach to Object Oriented Programming.
 
 **Thoughts** Wrapping my head around how JS works with objects took a bit of work, so different it was from my understanding of OOP from C++ and Java. Like, it has practically the same functionalities, but the way it was introduced and how its structured threw me off. I'm looking forward to applying what I've learned of JS to solve algorithm challenges.
+
+### Day 3: May 4, 2017
+
+**Today's Progress**: I got to work on solving some basic algorithmical challenges in javaScript.
+
+**Thoughts** It was nice to find some challenge in this coding fiinally. The open-ended process of solving these challenges is a nice exercise compared to the rudiementary tutorials leading up to them. The challenges themselves weren't particularly complex, mostly consisting of text processing. But, they were really only as easily doable because of the functions provided for string and array processing by javaScript, and I did have to use documentation on js to tackle these challenges effectively.
