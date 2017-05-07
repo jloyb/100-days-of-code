@@ -32,3 +32,9 @@ In HTML and CSS, I learned some basic elements and properties, including how to 
 **Today's Progress**: I got to work on solving some more basic algorithmical challenges in javaScript.
 
 **Thoughts** This batch of challenges were slightly more challenging to me than the previous. Was unfamiliar with the logic behind some of the functions that freecodecamp recommended I look at to solve them, so it was nice to familiarize myself with some of those. Still getting these done at a fairly brisk pace, though, so the 50 hours estimate time to solve these all seems a bit... well, perhaps its too early for me to comment on. I still have about a third of them to go.
+
+### Day 4: May 5, 2017
+
+**Today's Progress**: I completed work on solving basic algorithmical challenges in javaScript.
+
+**Thoughts** These were a fun couple of problems to sort out. Again, array and string processing, but it was quite some bit more interesting than previous ones. Got to learn and try out some neat techniques, like dealing with a dynamic number of passed arguments and unicode values for characters.
