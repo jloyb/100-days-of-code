@@ -38,3 +38,9 @@ In HTML and CSS, I learned some basic elements and properties, including how to 
 **Today's Progress**: I completed work on solving basic algorithmical challenges in javaScript.
 
 **Thoughts** These were a fun couple of problems to sort out. Again, array and string processing, but it was quite some bit more interesting than previous ones. Got to learn and try out some neat techniques, like dealing with a dynamic number of passed arguments and unicode values for characters.
+
+### Day 6: May 7, 2017
+
+**Today's Progress**: I introduced myself to the basics of jQuery, JSON, and APIs.
+
+**Thoughts** The tasks on freecodecamp were very simple to execute, simple copy-pasting. But I took the time to really read and try and dissect and understand the example code.
